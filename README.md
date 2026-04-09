@@ -40,4 +40,4 @@ demonstrating improved **accuracy** and **robustness** under large modality gaps
 
 ## 📄 Paper
 **SwitchMix: Switching Dual-Level Mix Teacher for Domain Adaptive Thermal Object Detection**  
-*ICEIC 2026* accepted.
+[*ICEIC 2026* accepted.] (https://ieeexplore.ieee.org/document/11385870)
